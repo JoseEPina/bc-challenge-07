@@ -52,7 +52,7 @@ This project uses [node.js](https://nodejs.org/en/about/) as the framework and g
 
 13.   Install the npm [badge-maker](https://www.npmjs.com/package/badge-maker) package (follow badge-maker instructions).
 
-14.   Stage, Commit, and Push to your repository by entering this command: 'git push origin main'
+14.   Stage, Commit, and Push to your repository.
 
 15.   Make sure to update your .gitignore file as needed.
 
